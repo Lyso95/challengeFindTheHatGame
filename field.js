@@ -3,7 +3,7 @@ const pathCharacter = '*';
 const holeCharacter = 'O';
 const hatCharacter = '^';
 
-export class Field {
+class Field {
     constructor(field) {
         this.field = field;
         this.playerPosition = {x: 0, y: 0};
@@ -102,3 +102,5 @@ export class Field {
     }
 
 }
+
+module.exports = Field;

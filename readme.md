@@ -38,7 +38,7 @@ This method should at least take arguments for height and width of the field, an
 I expandet the handling of keypresses and slightly changed the game with a fully generated field
 
 
-6
+## Advantages
 Actually no time but may come later:
 TODO:
 If you’d like to extend your project past our requirements, here are a few ideas:
